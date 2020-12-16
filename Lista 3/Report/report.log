@@ -1,0 +1,1394 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  10 JUL 2019 22:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count87
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count89
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count90
+\c@subtable=\count91
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen112
+\enit@toks=\toks17
+\enit@inbox=\box28
+\enitdp@description=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count93
+\@cmidlb=\count94
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count95
+\@lastruleclass=\count96
+\@thisrulewidth=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count97
+\U@D=\dimen126
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count98
+)
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count99
+\uc@combtoks=\toks20
+\uc@combtoksb=\toks21
+\uc@temptokena=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen127
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen129
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks24
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks25
+\eqnshift@=\dimen130
+\alignsep@=\dimen131
+\tagshift@=\dimen132
+\tagwidth@=\dimen133
+\totwidth@=\dimen134
+\lineht@=\dimen135
+\@envbody=\toks26
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks33
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks36
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\csv@file=\read1
+\c@csvinputline=\count112
+\c@csvrow=\count113
+\c@csvcol=\count114
+\csv@out=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count115
+\LTcapwidth=\dimen136
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count116
+\LT@rows=\count117
+\c@LT@tables=\count118
+\c@LT@chunks=\count119
+\LT@p@ftn=\toks37
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count120
+\lst@gtempboxa=\box35
+\lst@token=\toks38
+\lst@length=\count121
+\lst@currlwidth=\dimen137
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen138
+\lst@width=\dimen139
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box36
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box37
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\w@pgf@writea=\write5
+\r@pgf@reada=\read2
+\c@pgf@counta=\count128
+\c@pgf@countb=\count129
+\c@pgf@countc=\count130
+\c@pgf@countd=\count131
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count132
+\pgfsyssoftpath@bigbuffer@items=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen151
+\pgfmath@count=\count134
+\pgfmath@box=\box38
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count135
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen152
+\pgf@picmaxx=\dimen153
+\pgf@picminy=\dimen154
+\pgf@picmaxy=\dimen155
+\pgf@pathminx=\dimen156
+\pgf@pathmaxx=\dimen157
+\pgf@pathminy=\dimen158
+\pgf@pathmaxy=\dimen159
+\pgf@xx=\dimen160
+\pgf@xy=\dimen161
+\pgf@yx=\dimen162
+\pgf@yy=\dimen163
+\pgf@zx=\dimen164
+\pgf@zy=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen166
+\pgf@path@lasty=\dimen167
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen168
+\pgf@shorten@start@additional=\dimen169
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box39
+\pgf@hbox=\box40
+\pgf@layerbox@main=\box41
+\pgf@picture@serial@count=\count136
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen171
+\pgf@pt@y=\dimen172
+\pgf@pt@temp=\dimen173
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen175
+\pgf@sys@shading@range@num=\count137
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box42
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box43
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen176
+\pgf@nodesepend=\dimen177
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen178
+\pgffor@skip=\dimen179
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count138
+\pgfplotmarksize=\dimen180
+)
+\tikz@lastx=\dimen181
+\tikz@lasty=\dimen182
+\tikz@lastxsaved=\dimen183
+\tikz@lastysaved=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box44
+\tikz@figbox@bg=\box45
+\tikz@tempbox=\box46
+\tikz@tempbox@bg=\box47
+\tikztreelevel=\count139
+\tikznumberofchildren=\count140
+\tikznumberofcurrentchild=\count141
+\tikz@fig@count=\count142
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count143
+\pgfmatrixcurrentcolumn=\count144
+\pgf@matrix@numberofcolumns=\count145
+)
+\tikz@expandcount=\count146
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen187
+\pgfdecoratedremainingdistance=\dimen188
+\pgfdecoratedinputsegmentcompleteddistance=\dimen189
+\pgfdecoratedinputsegmentremainingdistance=\dimen190
+\pgf@decorate@distancetomove=\dimen191
+\pgf@decorate@repeatstate=\count147
+\pgfdecorationsegmentamplitude=\dimen192
+\pgfdecorationsegmentlength=\dimen193
+)
+\tikz@lib@dec@box=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen194
+\Hy@linkcounter=\count148
+\Hy@pagecounter=\count149
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count150
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count151
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen195
+\Fld@menulength=\count152
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count153
+\c@Item=\count154
+\c@Hfootnote=\count155
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count156
+\c@bookmark@seq@number=\count157
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip55
+)
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 47.
+
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+) (./report.aux
+
+LaTeX Warning: Label `fig:x-1x1' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count158
+\scratchdimen=\dimen198
+\scratchbox=\box49
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen199
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
+\everyMPtoPDFconversion=\toks49
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count164
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring OFF on input line 89.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count165
+)
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
+
+(./report.out) (./report.out)
+\@outlinefile=\write6
+\openout6 = `report.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) (./report.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write7
+\openout7 = `report.toc'.
+
+<1/A/RP1/contorno.png, id=16, 462.528pt x 346.896pt>
+File: 1/A/RP1/contorno.png Graphic file (type png)
+<use 1/A/RP1/contorno.png>
+Package pdftex.def Info: 1/A/RP1/contorno.png  used on input line 127.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/A/RP1/superficie.png, id=18, 462.528pt x 346.896pt>
+File: 1/A/RP1/superficie.png Graphic file (type png)
+<use 1/A/RP1/superficie.png>
+Package pdftex.def Info: 1/A/RP1/superficie.png  used on input line 132.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/A/RP1/convergencia.png, id=19, 462.528pt x 346.896pt>
+File: 1/A/RP1/convergencia.png Graphic file (type png)
+<use 1/A/RP1/convergencia.png>
+Package pdftex.def Info: 1/A/RP1/convergencia.png  used on input line 137.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/A/RP10/contorno.png, id=20, 462.528pt x 346.896pt>
+File: 1/A/RP10/contorno.png Graphic file (type png)
+<use 1/A/RP10/contorno.png>
+Package pdftex.def Info: 1/A/RP10/contorno.png  used on input line 148.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/A/RP10/superficie.png, id=21, 462.528pt x 346.896pt>
+File: 1/A/RP10/superficie.png Graphic file (type png)
+<use 1/A/RP10/superficie.png>
+Package pdftex.def Info: 1/A/RP10/superficie.png  used on input line 153.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/A/RP10/convergencia.png, id=22, 462.528pt x 346.896pt>
+File: 1/A/RP10/convergencia.png Graphic file (type png)
+<use 1/A/RP10/convergencia.png>
+Package pdftex.def Info: 1/A/RP10/convergencia.png  used on input line 158.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 164.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 164.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./1/A/RP1/contorno.png> <.
+/1/A/RP1/superficie.png> <./1/A/RP1/convergencia.png>]
+File: 1/A/RP1/contorno.png Graphic file (type png)
+<use 1/A/RP1/contorno.png>
+Package pdftex.def Info: 1/A/RP1/contorno.png  used on input line 169.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+File: 1/A/RP1/superficie.png Graphic file (type png)
+<use 1/A/RP1/superficie.png>
+Package pdftex.def Info: 1/A/RP1/superficie.png  used on input line 174.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+File: 1/A/RP1/convergencia.png Graphic file (type png)
+<use 1/A/RP1/convergencia.png>
+Package pdftex.def Info: 1/A/RP1/convergencia.png  used on input line 179.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+File: 1/A/RP1/contorno.png Graphic file (type png)
+<use 1/A/RP1/contorno.png>
+Package pdftex.def Info: 1/A/RP1/contorno.png  used on input line 190.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+File: 1/A/RP1/superficie.png Graphic file (type png)
+<use 1/A/RP1/superficie.png>
+Package pdftex.def Info: 1/A/RP1/superficie.png  used on input line 195.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+File: 1/A/RP1/convergencia.png Graphic file (type png)
+<use 1/A/RP1/convergencia.png>
+Package pdftex.def Info: 1/A/RP1/convergencia.png  used on input line 200.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 212--215
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 215--221
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 221--239
+ [] [] [] [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 239.
+[2 <./1/A/RP10/contorno.png> <./1/A/RP10/superficie.png> <./1/A/RP10/convergenc
+ia.png>]
+Overfull \hbox (42.83307pt too wide) in alignment at lines 244--247
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 247--253
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 253--269
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 275--278
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 278--284
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 284--298
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 303--306
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 306--312
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.83307pt too wide) in alignment at lines 312--324
+ [] [] [] [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 324.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 324.
+[3]
+<1/D/x1x1/contorno.png, id=64, 462.528pt x 346.896pt>
+File: 1/D/x1x1/contorno.png Graphic file (type png)
+<use 1/D/x1x1/contorno.png>
+Package pdftex.def Info: 1/D/x1x1/contorno.png  used on input line 359.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x1x1/superficie.png, id=65, 462.528pt x 346.896pt>
+File: 1/D/x1x1/superficie.png Graphic file (type png)
+<use 1/D/x1x1/superficie.png>
+Package pdftex.def Info: 1/D/x1x1/superficie.png  used on input line 364.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x1x1/convergencia.png, id=66, 462.528pt x 346.896pt>
+File: 1/D/x1x1/convergencia.png Graphic file (type png)
+<use 1/D/x1x1/convergencia.png>
+Package pdftex.def Info: 1/D/x1x1/convergencia.png  used on input line 369.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x10x10/contorno.png, id=67, 462.528pt x 346.896pt>
+File: 1/D/x10x10/contorno.png Graphic file (type png)
+<use 1/D/x10x10/contorno.png>
+Package pdftex.def Info: 1/D/x10x10/contorno.png  used on input line 380.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x10x10/superficie.png, id=68, 462.528pt x 346.896pt>
+File: 1/D/x10x10/superficie.png Graphic file (type png)
+<use 1/D/x10x10/superficie.png>
+Package pdftex.def Info: 1/D/x10x10/superficie.png  used on input line 385.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x10x10/convergencia.png, id=69, 462.528pt x 346.896pt>
+File: 1/D/x10x10/convergencia.png Graphic file (type png)
+<use 1/D/x10x10/convergencia.png>
+Package pdftex.def Info: 1/D/x10x10/convergencia.png  used on input line 390.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 396.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 396.
+ [4 <./1/D/x1x1/contorno.png> <./1/D/x1x1/superficie.png> <./1/D/x1x1/convergen
+cia.png>]
+<1/D/x-1x1/contorno.png, id=84, 462.528pt x 346.896pt>
+File: 1/D/x-1x1/contorno.png Graphic file (type png)
+<use 1/D/x-1x1/contorno.png>
+Package pdftex.def Info: 1/D/x-1x1/contorno.png  used on input line 401.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x-1x1/superficie.png, id=85, 462.528pt x 346.896pt>
+File: 1/D/x-1x1/superficie.png Graphic file (type png)
+<use 1/D/x-1x1/superficie.png>
+Package pdftex.def Info: 1/D/x-1x1/superficie.png  used on input line 406.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/D/x-1x1/convergencia.png, id=86, 462.528pt x 346.896pt>
+File: 1/D/x-1x1/convergencia.png Graphic file (type png)
+<use 1/D/x-1x1/convergencia.png>
+Package pdftex.def Info: 1/D/x-1x1/convergencia.png  used on input line 411.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/E/NelderMead/contorno.png, id=87, 462.528pt x 346.896pt>
+File: 1/E/NelderMead/contorno.png Graphic file (type png)
+<use 1/E/NelderMead/contorno.png>
+Package pdftex.def Info: 1/E/NelderMead/contorno.png  used on input line 444.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/E/NelderMead/superficie.png, id=88, 462.528pt x 346.896pt>
+File: 1/E/NelderMead/superficie.png Graphic file (type png)
+<use 1/E/NelderMead/superficie.png>
+Package pdftex.def Info: 1/E/NelderMead/superficie.png  used on input line 449.
+
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<1/E/NelderMead/convergencia.png, id=89, 462.528pt x 346.896pt>
+File: 1/E/NelderMead/convergencia.png Graphic file (type png)
+<use 1/E/NelderMead/convergencia.png>
+Package pdftex.def Info: 1/E/NelderMead/convergencia.png  used on input line 45
+4.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 460.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 460.
+ [5 <./1/D/x10x10/contorno.png> <./1/D/x10x10/superficie.png> <./1/D/x10x10/con
+vergencia.png> <./1/D/x-1x1/contorno.png> <./1/D/x-1x1/superficie.png> <./1/D/x
+-1x1/convergencia.png>]
+Overfull \hbox (91.99287pt too wide) in alignment at lines 462--465
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (46.7497pt too wide) in alignment at lines 471--486
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 5 on input line 486.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 521.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 521.
+[6 <./1/E/NelderMead/contorno.png> <./1/E/NelderMead/superficie.png> <./1/E/Nel
+derMead/convergencia.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 531.
+<2_2.png, id=113, 614.295pt x 845.0772pt>
+File: 2_2.png Graphic file (type png)
+<use 2_2.png>
+Package pdftex.def Info: 2_2.png  used on input line 537.
+(pdftex.def)             Requested size: 452.9679pt x 623.14232pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 539.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 539.
+ [7]
+<2_1.png, id=119, 614.295pt x 845.0772pt>
+File: 2_1.png Graphic file (type png)
+<use 2_1.png>
+Package pdftex.def Info: 2_1.png  used on input line 542.
+(pdftex.def)             Requested size: 452.9679pt x 623.14232pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 544.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 544.
+ [8 <./2_2.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 545.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 545.
+ [9 <./2_1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 615.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 615.
+ [10]
+Overfull \hbox (31.72484pt too wide) detected at line 636
+[]
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 684.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 684.
+[11]
+<5/MPFE/A/BFGS/contorno.png, id=145, 462.528pt x 346.896pt>
+File: 5/MPFE/A/BFGS/contorno.png Graphic file (type png)
+<use 5/MPFE/A/BFGS/contorno.png>
+Package pdftex.def Info: 5/MPFE/A/BFGS/contorno.png  used on input line 702.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/BFGS/superficie.png, id=146, 462.528pt x 346.896pt>
+File: 5/MPFE/A/BFGS/superficie.png Graphic file (type png)
+<use 5/MPFE/A/BFGS/superficie.png>
+Package pdftex.def Info: 5/MPFE/A/BFGS/superficie.png  used on input line 707.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/BFGS/convergencia.png, id=147, 462.528pt x 346.896pt>
+File: 5/MPFE/A/BFGS/convergencia.png Graphic file (type png)
+<use 5/MPFE/A/BFGS/convergencia.png>
+Package pdftex.def Info: 5/MPFE/A/BFGS/convergencia.png  used on input line 712
+.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Powell/contorno.png, id=148, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Powell/contorno.png Graphic file (type png)
+<use 5/MPFE/A/Powell/contorno.png>
+Package pdftex.def Info: 5/MPFE/A/Powell/contorno.png  used on input line 723.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Powell/superficie.png, id=149, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Powell/superficie.png Graphic file (type png)
+<use 5/MPFE/A/Powell/superficie.png>
+Package pdftex.def Info: 5/MPFE/A/Powell/superficie.png  used on input line 728
+.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Powell/convergencia.png, id=150, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Powell/convergencia.png Graphic file (type png)
+<use 5/MPFE/A/Powell/convergencia.png>
+Package pdftex.def Info: 5/MPFE/A/Powell/convergencia.png  used on input line 7
+33.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Nelder-Mead/contorno.png, id=151, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Nelder-Mead/contorno.png Graphic file (type png)
+<use 5/MPFE/A/Nelder-Mead/contorno.png>
+Package pdftex.def Info: 5/MPFE/A/Nelder-Mead/contorno.png  used on input line 
+744.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Nelder-Mead/superficie.png, id=152, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Nelder-Mead/superficie.png Graphic file (type png)
+<use 5/MPFE/A/Nelder-Mead/superficie.png>
+Package pdftex.def Info: 5/MPFE/A/Nelder-Mead/superficie.png  used on input lin
+e 749.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<5/MPFE/A/Nelder-Mead/convergencia.png, id=153, 462.528pt x 346.896pt>
+File: 5/MPFE/A/Nelder-Mead/convergencia.png Graphic file (type png)
+<use 5/MPFE/A/Nelder-Mead/convergencia.png>
+Package pdftex.def Info: 5/MPFE/A/Nelder-Mead/convergencia.png  used on input l
+ine 754.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Overfull \hbox (80.24304pt too wide) in alignment at lines 763--766
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.38873pt too wide) in alignment at lines 772--788
+ [] [] [] [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 788.
+[12 <./5/MPFE/A/BFGS/contorno.png> <./5/MPFE/A/BFGS/superficie.png> <./5/MPFE/A
+/BFGS/convergencia.png> <./5/MPFE/A/Powell/contorno.png> <./5/MPFE/A/Powell/sup
+erficie.png> <./5/MPFE/A/Powell/convergencia.png> <./5/MPFE/A/Nelder-Mead/conto
+rno.png> <./5/MPFE/A/Nelder-Mead/superficie.png> <./5/MPFE/A/Nelder-Mead/conver
+gencia.png>]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 6 on input line 788.
+
+
+Overfull \hbox (80.243pt too wide) in alignment at lines 793--796
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.38873pt too wide) in alignment at lines 802--817
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 7 on input line 817.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 818.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 818.
+[13]
+Overfull \hbox (80.243pt too wide) in alignment at lines 823--826
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.38873pt too wide) in alignment at lines 832--851
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 8 on input line 851.
+
+<5/MPFE/B/BFGS/convergencia.png, id=183, 462.528pt x 346.896pt>
+File: 5/MPFE/B/BFGS/convergencia.png Graphic file (type png)
+<use 5/MPFE/B/BFGS/convergencia.png>
+Package pdftex.def Info: 5/MPFE/B/BFGS/convergencia.png  used on input line 883
+.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Underfull \hbox (badness 1237) in paragraph at lines 884--884
+[]\OT1/cmr/m/n/10.95 (a) |Con-verg^encia do al-go-
+ []
+
+File: 5/MPFE/A/Powell/convergencia.png Graphic file (type png)
+<use 5/MPFE/A/Powell/convergencia.png>
+Package pdftex.def Info: 5/MPFE/A/Powell/convergencia.png  used on input line 8
+88.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Underfull \hbox (badness 1067) in paragraph at lines 889--889
+[]\OT1/cmr/m/n/10.95 (b) |Con-verg^encia do al-go-
+ []
+
+File: 5/MPFE/A/Nelder-Mead/convergencia.png Graphic file (type png)
+<use 5/MPFE/A/Nelder-Mead/convergencia.png>
+Package pdftex.def Info: 5/MPFE/A/Nelder-Mead/convergencia.png  used on input l
+ine 893.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Underfull \hbox (badness 1424) in paragraph at lines 894--894
+[]\OT1/cmr/m/n/10.95 (c) |Con-verg^encia do al-go-
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 898.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 898.
+[14]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 9 on input line 926.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 10 on input line 958.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 11 on input line 987.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 987.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 987.
+[15 <./5/MPFE/B/BFGS/convergencia.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 989.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 989.
+ [16]
+<6/trelica.png, id=205, 604.50844pt x 454.69875pt>
+File: 6/trelica.png Graphic file (type png)
+<use 6/trelica.png>
+Package pdftex.def Info: 6/trelica.png  used on input line 994.
+(pdftex.def)             Requested size: 135.89174pt x 102.2126pt.
+
+Overfull \hbox (25.39983pt too wide) detected at line 1023
+[]
+ []
+
+<6/Nelder-Mead/contorno.png, id=208, 462.528pt x 346.896pt>
+File: 6/Nelder-Mead/contorno.png Graphic file (type png)
+<use 6/Nelder-Mead/contorno.png>
+Package pdftex.def Info: 6/Nelder-Mead/contorno.png  used on input line 1032.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<6/Nelder-Mead/superficie.png, id=209, 462.528pt x 346.896pt>
+File: 6/Nelder-Mead/superficie.png Graphic file (type png)
+<use 6/Nelder-Mead/superficie.png>
+Package pdftex.def Info: 6/Nelder-Mead/superficie.png  used on input line 1037.
+
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<6/Nelder-Mead/convergencia.png, id=210, 462.528pt x 346.896pt>
+File: 6/Nelder-Mead/convergencia.png Graphic file (type png)
+<use 6/Nelder-Mead/convergencia.png>
+Package pdftex.def Info: 6/Nelder-Mead/convergencia.png  used on input line 104
+2.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1048.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1048.
+[17 <./6/trelica.png (PNG copy)>]
+<6/BFGS/contorno.png, id=219, 462.528pt x 346.896pt>
+File: 6/BFGS/contorno.png Graphic file (type png)
+<use 6/BFGS/contorno.png>
+Package pdftex.def Info: 6/BFGS/contorno.png  used on input line 1053.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<6/BFGS/superficie.png, id=220, 462.528pt x 346.896pt>
+File: 6/BFGS/superficie.png Graphic file (type png)
+<use 6/BFGS/superficie.png>
+Package pdftex.def Info: 6/BFGS/superficie.png  used on input line 1058.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+<6/BFGS/convergencia.png, id=221, 462.528pt x 346.896pt>
+File: 6/BFGS/convergencia.png Graphic file (type png)
+<use 6/BFGS/convergencia.png>
+Package pdftex.def Info: 6/BFGS/convergencia.png  used on input line 1063.
+(pdftex.def)             Requested size: 135.89174pt x 101.92055pt.
+
+Overfull \hbox (86.99304pt too wide) in alignment at lines 1072--1075
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.38873pt too wide) in alignment at lines 1081--1091
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 12 on input line 1091.
+
+
+Overfull \hbox (86.99304pt too wide) in alignment at lines 1096--1099
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.38873pt too wide) in alignment at lines 1105--1115
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 13 on input line 1115.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1118.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1118.
+[18 <./6/Nelder-Mead/contorno.png> <./6/Nelder-Mead/superficie.png> <./6/Nelder
+-Mead/convergencia.png> <./6/BFGS/contorno.png> <./6/BFGS/superficie.png> <./6/
+BFGS/convergencia.png>]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 14 on input line 1140.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1145.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1145.
+[19]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1145.
+(./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1145.
+
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 5A7B4BFE98CA03D62D8A0352B00F73EF;43.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21687 strings out of 492982
+ 399475 string characters out of 6134895
+ 502741 words of memory out of 5000000
+ 24774 multiletter control sequences out of 15000+600000
+ 13222 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 54i,20n,65p,784b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.caption.36} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.30} has been referenced but does not
+ exist, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb>
+Output written on report.pdf (19 pages, 18157790 bytes).
+PDF statistics:
+ 294 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+

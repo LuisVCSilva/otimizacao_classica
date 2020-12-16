@@ -1,0 +1,20 @@
+Métodos Clássicos:
+
+ Ordem zero:
+  busca randomica								OK
+  powell									OK
+  fibonacci									OK
+  secao aurea         								OK
+
+ Ordem um:
+  maxima descida								OK
+  nelder-mead									OK
+  direção conjugada - fletcher reeves						OK
+  variável métrica								
+   bfgs										OK
+   dfp										??
+
+Ordem dois:
+  newton									OK
+
+Interpolacao polinomial								OK
